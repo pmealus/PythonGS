@@ -1,4 +1,4 @@
-fstudents = []
+students = []
 
 
 class Student:
